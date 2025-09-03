@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "Cálculo I"
+  author: "M.C. José Ítalo Sánchez Bermúdez"
+  date: "3/9/2025"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

@@ -1,0 +1,92 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cálculo I",
+    "section": "",
+    "text": "1 Información general",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Información general</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#avisos",
+    "href": "index.html#avisos",
+    "title": "Cálculo I",
+    "section": "1.1 Avisos",
+    "text": "1.1 Avisos\nResponder el siguiente exámen diágnostico: https://forms.gle/XEfjz77teV7MhprG8",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Información general</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#contacto",
+    "href": "index.html#contacto",
+    "title": "Cálculo I",
+    "section": "1.2 Contacto",
+    "text": "1.2 Contacto\ncorreo: a219208499@unison.mx\ncelular: 6621783265\nCubículo: Departamento de Matemáticas, edificio 3K-1 cubículo 207 (segundo piso)",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Información general</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#criterios-de-evaluación",
+    "href": "index.html#criterios-de-evaluación",
+    "title": "Cálculo I",
+    "section": "1.3 Criterios de evaluación",
+    "text": "1.3 Criterios de evaluación\n60% —- Listas de ejercicios\n40% —- Exámenes\n\n1.3.1 Listas de ejercicios\n\n3 listas en el semestre\nSe entregan en equipos de 3 personas\nSe entregarán por Teams o correo\n\n\n\n1.3.2 Exámenes\n\n2 exámenes en el semestre\nTemas: Funciones y Derivadas\nDe ser posible se acomodarán los horarios para que sean 2 horas.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Información general</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#libros",
+    "href": "index.html#libros",
+    "title": "Cálculo I",
+    "section": "1.4 Libros",
+    "text": "1.4 Libros\nCálculo diferencial e integral - Purcell",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Información general</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#sala-de-asesorías",
+    "href": "index.html#sala-de-asesorías",
+    "title": "Cálculo I",
+    "section": "1.5 Sala de asesorías",
+    "text": "1.5 Sala de asesorías\nSala de asesorías del Departamento de Matemáticas\nUbicación: Edificio 3K-1 segundo piso.\nhttps://www.instagram.com/asesoriasmatematicasunison/",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Información general</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "2  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "3  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  }
+]
