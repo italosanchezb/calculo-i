@@ -60,6 +60,16 @@
     ]
   },
   {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "2  Listas",
+    "section": "",
+    "text": "Lista 1",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Listas</span>"
+    ]
+  },
+  {
     "objectID": "notas.html",
     "href": "notas.html",
     "title": "3  Notas",
